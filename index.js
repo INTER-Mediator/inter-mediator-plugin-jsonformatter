@@ -60,6 +60,3 @@ IMParts_Catalog.jsonformat = {
         IMParts_Catalog.jsonformat.initialValues = {}
     }
 }
-
-// @@IM@@IgnoringRestOfFile
-module.exports = IMParts_Catalog

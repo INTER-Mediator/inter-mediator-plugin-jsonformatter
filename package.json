@@ -1,26 +1,25 @@
 {
-  "name": "inter-mediator-plugin-codemirror",
+  "name": "inter-mediator-plugin-jsonformatter",
   "version": "1.0.0",
-  "description": "INTER-Mediator plug-in to use the codemirror.",
+  "description": "INTER-Mediator plug-in to use formatting json data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror.git"
+    "url": "git+https://github.com/INTER-Mediator/inter-mediator-plugin-jsonformatter.git"
   },
   "keywords": [
     "INTER-Mediator",
-    "codemirror"
+    "json"
   ],
   "dependencies": {
-    "codemirror": "*"
   },
   "author": "Masayuki Nii",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror/issues"
+    "url": "https://github.com/INTER-Mediator/inter-mediator-plugin-jsonformatter/issues"
   },
-  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-codemirror#readme"
+  "homepage": "https://github.com/INTER-Mediator/inter-mediator-plugin-jsonformatter#readme"
 }
