@@ -16,11 +16,11 @@
  */
 /**
  *
- * Usually you don't have to instanciate this class with new operator.
+ * Usually you don't have to instantiate this class with new operator.
  * @constructor
  */
 IMParts_Catalog.jsonformat = {
-    instanciate: function (parentNode) {
+    instantiate: function (parentNode) {
         'use strict'
         var newId = parentNode.getAttribute('id') + '-jsonf'
         var newNode = document.createElement('pre')

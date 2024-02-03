@@ -9,7 +9,7 @@ eval(fs.readFileSync('./index.js').toString());
 
 test('Object exists, and has fundamental methods.', () => {
   expect(typeof IMParts_Catalog.jsonformat).toBe('object')
-  expect(typeof IMParts_Catalog.jsonformat.instanciate).toBe('function')
+  expect(typeof IMParts_Catalog.jsonformat.instantiate).toBe('function')
   expect(typeof IMParts_Catalog.jsonformat.finish).toBe('function')
   }
 )
